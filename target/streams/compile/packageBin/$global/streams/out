@@ -1,0 +1,107 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\ml_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$4$$anonfun$apply$4$$anonfun$apply$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$4$$anonfun$apply$4$$anonfun$apply$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieLens$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\MovieLens$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$4$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$4$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H3$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H3$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Preprocess$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\Preprocess$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Preprocess$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\Preprocess$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Preprocess$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\Preprocess$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H2$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H2$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H3$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H3$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieLens$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\MovieLens$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H3$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H3$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rating$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\Rating$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BookRecommendation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\BookRecommendation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H2$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H2$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$8$$anonfun$apply$7$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$8$$anonfun$apply$7$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rating.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\Rating.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$4$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$4$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BookRecommendation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\BookRecommendation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$main$1$$anonfun$apply$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$main$1$$anonfun$apply$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H2$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H2$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HW4_2$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\HW4_2$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$5$$anonfun$apply$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$5$$anonfun$apply$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieLens$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\MovieLens$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HW4_2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\HW4_2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H2$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H2$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HW4_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\HW4_2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Preprocess.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\Preprocess.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HW4_2$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\HW4_2$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HW4_2$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\HW4_2$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HW4_2$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\HW4_2$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H3$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H3$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\MovieLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$4$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$4$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HW4_2$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\HW4_2$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H2$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H2$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$8$$anonfun$apply$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$8$$anonfun$apply$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H3$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H3$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	H3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\H3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TopicModeling$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\target\scala-2.11\classes\TopicModeling$$anonfun$2.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

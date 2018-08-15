@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Bob Hu\Desktop\Big Data\MLSBT\MLProjects\src\main\scala\H2.scala:58:48: class Nothing is abstract; cannot be instantiated[0m
+[0m[[0m[31merror[0m] [0m[0m    val fsDataOutputStream = fileSystem.create(new Nothing(output + "//Result.txt"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
